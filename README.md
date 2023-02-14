@@ -5,4 +5,4 @@
 
 A simple calculator made with javascript.
 
-You can access the page here >>> [Click Here](https://prem913.github.io/simplecalculator)
+You can access the page here >>> [Click Here](https://purmavijayvardhanreddy.github.io/Simple-calculator/)
